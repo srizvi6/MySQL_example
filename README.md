@@ -5,3 +5,5 @@ This code is for my medium article on an intro to MySQL that I used for my movie
 Simple use of MySQL for movie recommendation service ratings data.
 
 Running the ratings_orig.py script requires the user to connect to the kafka stream which is confidential, so this code is just an example to reference for other applications.
+
+Changing for main.
